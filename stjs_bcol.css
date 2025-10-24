@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&display=swap');
     p, span, r {
-        font-family: "Cascadia Code";
-        color: #ccc;
+        font-family: "Cascadia Code"!important;
+        color: #ccc!important;
     }
     a {
-        font-family: "Cascadia Code";
+        font-family: "Cascadia Code"!important;
     }
     body, .tab-container, button, .secondary.round, .flex.flex-column.g-4, .button.round {
         background: #0c0c0c!important;
         border-radius: 0px!important;
-        font-family: "Cascadia Code";
-        color: #ccc;
+        font-family: "Cascadia Code"!important;
+        color: #ccc!important;
     }
