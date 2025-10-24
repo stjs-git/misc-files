@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&display=swap');
-    p {
-        font-family: "Cascadia Code";
-        color: #ccc;
-    }
-    span {
+    p, span, r {
         font-family: "Cascadia Code";
         color: #ccc;
     }
